@@ -46,3 +46,6 @@ Your goal is to complete 10 levels (exercises) and showcase your solutions in yo
 | /24 |  256    |  254  | 255.255.255.0   |
 | /18 |  16384  | 16382 | 255.255.192.0   |
 | /16 |  65536  | 65534 | 255.255.0.0     |
+
+
+The subject is in the repo, check it out for better understanding.(PDF)
